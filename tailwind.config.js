@@ -19,6 +19,8 @@ module.exports= {
         poppinsRegular: ["poppinsRegular"],
         poppinsMedium: ["poppinsMedium"],
         poppinsSemiBold: ["poppinsSemiBold"],
+        poppinsBlack: ["poppinsBlack"],
+        poppinsBold: ["poppinsBold"],
       },
   },
   plugins: [
